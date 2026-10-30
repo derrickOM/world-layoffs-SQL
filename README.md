@@ -31,6 +31,3 @@ This project explores and analyses layoff data using MySQL.
 
 ## Reproducibility
 The original dataset, SQL scripts and database export are provided to help others understand and recreate the project.
-
-Author
-Derrick Otim Murungi
